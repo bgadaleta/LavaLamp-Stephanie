@@ -1,2 +1,2 @@
-# LavaLamp-Stephanie
+# newstudentportfolios
 Created with CodeSandbox
